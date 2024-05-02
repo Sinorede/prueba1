@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+#materia{
+    width: auto;
+    height: auto;
+   margin-left:35%;
+   margin-right: 35%;
+   border-style: dashed;
+    background-color:#FEFAF6;
+    color:rgb(59, 56, 56);
+}
+h1{
+    font-family: "Zilla Slab", serif;
+    font-weight: 800;
+    font-style: italic;  
+
+}
+h2{
+    font-family: "Arvo", serif;
+    font-weight: 600;
+    font-style: italic;
+}
+h3{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+pre{
+    font-family: "Saira Condensed", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 27px;
+}
